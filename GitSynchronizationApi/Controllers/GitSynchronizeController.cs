@@ -35,10 +35,9 @@ namespace GitSynchronizationApi.Controllers
             try
             {
                 _logger.LogInformation("Starting...");
-                /*
-                                 var sourceUrl = "https://github.com/hungtran-git/RepoA.git";
-                                var destinationUrl = "https://github.com/hungtran-git/RepoB.git";
-                                var repoContainerPath = @"D:\HungTran\2-project\1-net-core\PowerShellHostedRunspaceStarterkits\TestRepoTranfer";
+                /* Repo to test
+                    var sourceUrl = "https://github.com/hungtran-git/RepoA.git";
+                    var destinationUrl = "https://github.com/hungtran-git/RepoB.git";
                  */
                 var sourceUrl = synchronizeModel.SourceUrl;
                 var destinationUrl = synchronizeModel.DestinationUrl;
