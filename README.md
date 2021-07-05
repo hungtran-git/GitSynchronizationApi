@@ -5,16 +5,16 @@
     - Project có thể là GitHub repos hoặc Azure repos
     1. Lấy đường dẫn project nguồn
         Github:
-        (documents/images/1-github-link.png)
+        ![Github](documents/images/1-github-link.png)
         Azure:
-        (documents/images/1-azure-link-1.png)
-        (documents/images/1-azure-link-2.png)
+        ![Azure](documents/images/1-azure-link-1.png)
+        ![Azure](documents/images/1-azure-link-2.png)
     2. Lấy credential project nguồn
         Username:
             Github:
-            (documents/images/2-github-username.png)
+            ![Github](documents/images/2-github-username.png)
             Azure:
-            (documents/images/2-azure-username.png)
+            ![Azure](documents/images/2-azure-username.png)
         Password:
             Github:
             (documents/images/3-github-token-1.png)
