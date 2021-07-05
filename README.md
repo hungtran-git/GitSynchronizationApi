@@ -1,6 +1,6 @@
 # VDG-git-sync
 
-## 1. Chuẩn bị Project cho việc đồng bộ
+# 1. Chuẩn bị Project cho việc đồng bộ
 
     - Project có thể là GitHub repos hoặc Azure repos
     1. Lấy đường dẫn project nguồn
@@ -34,7 +34,7 @@
             ![Azure](documents/images/4-azure-email.png)
     3. Tương tự cho project đích
 
-## 2. Tiến hành đồng bộ
+# 2. Tiến hành đồng bộ
 
     1. Kiểm tra trạng thái ban đầu project đích
     ![Example](documents/images/5-kiem-tra-ban-dau.png)
